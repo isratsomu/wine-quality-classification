@@ -181,4 +181,4 @@ plt.tight_layout()
 plt.savefig("images/06_model_comparison.png", dpi=150)
 plt.close()
 
-print("\nDone! সব ছবি 'images' ফোল্ডারে সেভ হয়েছে।")
+print("\nDone! All plots are saved in the 'images' folder.")
